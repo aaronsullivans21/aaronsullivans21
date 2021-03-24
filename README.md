@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aaronsullivans21
 - 👀 I’m interested in software developement, database design, and cybersecurity
-- 🌱 I’m currently learning and currently working with SQL, JavaScript, Ruby, and Unix Systems Administartion
+- 🌱 I’m currently learning and working with SQL, JavaScript, Ruby, and Unix Systems Administartion
 - 💞️ I’m looking to collaborate on open source projects, marketing media and database design and administration 
 - 📫 How to reach me asullivan@pattisparadoxes.net
 
